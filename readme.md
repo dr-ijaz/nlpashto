@@ -218,7 +218,8 @@ _K. Ahmed, M. A. Khan, I. Haq, A. Al Mazroa, M. Syam, N. Innab, et al., "Social 
   issn = {0957-4174},
   doi = {https://doi.org/10.1016/j.eswa.2024.124650},
   author = {Kanwal Ahmed and Muhammad Asghar Khan and Ijazul Haq and Alanoud Al Mazroa and Syam M.S. and Nisreen Innab and Masoud Alajmi and Hend Khalid Alkahtani}
-}```
+}
+```
 
 ## Contact
 
