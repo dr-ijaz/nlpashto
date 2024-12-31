@@ -157,7 +157,7 @@ H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Correction of whitespace and word s
   author={Ijazul Haq and Weidong Qiu and Jie Guo and Peng Tang},
 }
 ```
-___
+---
 **POS Tagging of Low-resource Pashto Language: Annotated Corpus and Bert-based Model**
 
 **IEEE**
@@ -174,7 +174,7 @@ H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "POS Tagging of Low-resource Pashto 
   year={2023}
 }
 ```
-
+---
 **Pashto offensive language detection: a benchmark dataset and monolingual Pashto BERT**
 
 **IEEE**
