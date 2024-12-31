@@ -111,10 +111,6 @@ For related examples and Jupyter Notebooks please visit our [Kaggle profile](htt
 #### Datasets and Text Corpora
 Sample datasets are available on our [Kaggle profile](https://www.kaggle.com/drijaz/), and the full version of the datasets and annotated corpora can be provided on request.
 
-## Contact
-- LinkedIn: [https://www.linkedin.com/in/drijaz/](https://www.linkedin.com/in/drijaz/) 
-- Email: [ijazse@hotmail.com](mailto:ijazse@hotmail.com)
-
 ## Citations
 Please cite our work if you are using this code or toolkit for learning or any other purpose.
 
@@ -184,3 +180,8 @@ _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Pashto offensive language detectio
   doi={10.7717/peerj-cs.1617}
 }
 ```
+
+
+## Contact
+- Website: [https://ijaz.me/](https://ijaz.me/)
+- LinkedIn: [https://www.linkedin.com/in/drijaz/](https://www.linkedin.com/in/drijazulhaq/)
