@@ -133,9 +133,7 @@ print(sentiment)
 
 **[NLPashto: NLP Toolkit for Low-resource Pashto Language](https://dx.doi.org/10.14569/IJACSA.2023.01406142)**
 
-- **IEEE**
-
-  _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "NLPashto: NLP Toolkit for Low-resource Pashto Language," International Journal of Advanced Computer Science and Applications, vol. 14, no. 6, pp. 1345-1352, 2023._
+_H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "NLPashto: NLP Toolkit for Low-resource Pashto Language," International Journal of Advanced Computer Science and Applications, vol. 14, no. 6, pp. 1345-1352, 2023._
 
 - **BibTeX**
 
@@ -154,9 +152,7 @@ print(sentiment)
 
 **[Correction of Whitespace and Word Segmentation in Noisy Pashto Text using CRF](https://doi.org/10.1016/j.specom.2023.102970)**
 
-- **IEEE**
-
-  _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Correction of whitespace and word segmentation in noisy Pashto text using CRF," Speech Communication, vol. 153, p. 102970, 2023._
+_H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Correction of whitespace and word segmentation in noisy Pashto text using CRF," Speech Communication, vol. 153, p. 102970, 2023._
 
 - **BibTeX**
 
@@ -174,9 +170,7 @@ print(sentiment)
 
 **[POS Tagging of Low-resource Pashto Language: Annotated Corpus and Bert-based Model](https://doi.org/10.21203/rs.3.rs-2712906/v1)**
 
-- **IEEE**
-
-  _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "POS Tagging of Low-resource Pashto Language: Annotated Corpus and BERT-based Model," Preprint, 2023._
+_H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "POS Tagging of Low-resource Pashto Language: Annotated Corpus and BERT-based Model," Preprint, 2023._
 
 - **BibTeX**
 
@@ -192,9 +186,7 @@ print(sentiment)
 
 **[Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT](https://doi.org/10.7717/peerj-cs.1617)**
 
-- **IEEE**
-
-  _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT," PeerJ Computer Science, vol. 9, p. e1617, 2023._
+_H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT," PeerJ Computer Science, vol. 9, p. e1617, 2023._
 
 - **BibTeX**
 
@@ -212,9 +204,7 @@ print(sentiment)
 
 **[Social Media’s Dark Secrets: A Propagation, Lexical and Psycholinguistic Ooriented Deep Learning Approach for Fake News Proliferation](https://doi.org/10.1016/j.eswa.2024.124650)**
 
-- **IEEE**
-
-  _K. Ahmed, M. A. Khan, I. Haq, A. Al Mazroa, M. Syam, N. Innab, et al., "Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation," Expert Systems with Applications, vol. 255, p. 124650, 2024._
+_K. Ahmed, M. A. Khan, I. Haq, A. Al Mazroa, M. Syam, N. Innab, et al., "Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation," Expert Systems with Applications, vol. 255, p. 124650, 2024._
 
 - **BibTeX**
 
