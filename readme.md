@@ -2,7 +2,9 @@
 
 # NLPashto – NLP Toolkit for Pashto
 
-![GitHub](https://img.shields.io/github/license/ijazul-haq/nlpashto) ![GitHub contributors](https://img.shields.io/github/contributors/ijazul-haq/nlpashto) ![Code size](https://img.shields.io/github/languages/code-size/ijazul-haq/nlpashto)
+[![GitHub](https://img.shields.io/github/license/ijazul-haq/nlpashto)](LICENSE)
+![GitHub contributors](https://img.shields.io/github/contributors/ijazul-haq/nlpashto) 
+![Code size](https://img.shields.io/github/languages/code-size/ijazul-haq/nlpashto)
 
 NLPashto is a Python suite for Pashto Natural Language Processing. It provides tools for fundamental text processing tasks, such as text cleaning, tokenization, and chunking (word segmentation). Additionally, it includes state-of-the-art models for POS tagging and sentiment analysis (specifically offensive language detection).
 
