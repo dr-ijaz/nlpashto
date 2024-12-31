@@ -135,7 +135,7 @@ H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "NLPashto: NLP Toolkit for Low-resou
   publisher={Science and Information (SAI) Organization Limited}
 }
 ```
-
+---
 **Correction of whitespace and word segmentation in noisy Pashto text using CRF**
 
 **IEEE**
@@ -157,7 +157,7 @@ H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Correction of whitespace and word s
   author={Ijazul Haq and Weidong Qiu and Jie Guo and Peng Tang},
 }
 ```
-
+___
 **POS Tagging of Low-resource Pashto Language: Annotated Corpus and Bert-based Model**
 
 **IEEE**
