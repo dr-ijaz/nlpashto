@@ -116,8 +116,12 @@ Please cite our work if you are using this code or toolkit for learning or any o
 
 **For NLPashto ToolKit**
 
+**IEEE**
+```
 _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "NLPashto: NLP Toolkit for Low-resource Pashto Language," International Journal of Advanced Computer Science and Applications, vol. 14, pp. 1345-1352, 2023._
+```
 
+**BibTeX**
 ```
 @article{haq2023nlpashto,
   title={NLPashto: NLP Toolkit for Low-resource Pashto Language},
@@ -184,4 +188,4 @@ _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Pashto offensive language detectio
 
 ## Contact
 - Website: [https://ijaz.me/](https://ijaz.me/)
-- LinkedIn: [https://www.linkedin.com/in/drijaz/](https://www.linkedin.com/in/drijazulhaq/)
+- LinkedIn: [https://www.linkedin.com/in/drijazulhaq/](https://www.linkedin.com/in/drijazulhaq/)
