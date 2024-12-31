@@ -5,6 +5,8 @@
 ![GitHub](https://img.shields.io/github/license/dr-ijaz/nlpashto)
 ![GitHub contributors](https://img.shields.io/github/contributors/dr-ijaz/nlpashto) 
 ![Code size](https://img.shields.io/github/languages/code-size/dr-ijaz/nlpashto)
+[![PyPI](https://img.shields.io/pypi/v/nlpashto)](https://pypi.org/project/nlpashto/)
+[![Citation](https://img.shields.io/badge/citation-196-green)](https://scholar.google.com.pk/scholar?cites=14346943839777454210)
 
 NLPashto is a Python suite for Pashto Natural Language Processing. It provides tools for fundamental text processing tasks, such as text cleaning, tokenization, and chunking (word segmentation). Additionally, it includes state-of-the-art models for POS tagging and sentiment analysis (specifically offensive language detection).
 
