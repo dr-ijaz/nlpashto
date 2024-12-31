@@ -142,6 +142,7 @@ _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "NLPashto: NLP Toolkit for Low-reso
     title={NLPashto: NLP Toolkit for Low-resource Pashto Language},
     author={Ijazul Haq and Weidong Qiu and Jie Guo and Peng Tang},
     journal={International Journal of Advanced Computer Science and Applications},
+    issn={2156-5570},
     volume={14},
     number={6},
     pages={1345-1352},
@@ -160,6 +161,7 @@ _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Correction of whitespace and word 
   @article{HAQ2023102970,
     title={Correction of whitespace and word segmentation in noisy Pashto text using CRF},
     journal={Speech Communication},
+    issn={1872-7182},
     volume={153},
     pages={102970},
     year={2023},
@@ -195,6 +197,7 @@ _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Pashto Offensive Language Detectio
     title={Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT},
     author={Ijazul Haq and Weidong Qiu and Jie Guo and Peng Tang},
     journal={PeerJ Computer Science},
+    issn={2376-5992},
     volume={9},
     pages={e1617},
     year={2023},
@@ -209,20 +212,18 @@ _K. Ahmed, M. A. Khan, I. Haq, A. Al Mazroa, M. Syam, N. Innab, et al., "Social 
 - **BibTeX**
 
   ```bibtex
-@article{AHMED2024124650,
-  title = {Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation},
-  journal = {Expert Systems with Applications},
-  volume = {255},
-  pages = {124650},
-  year = {2024},
-  issn = {0957-4174},
-  doi = {https://doi.org/10.1016/j.eswa.2024.124650},
-  url = {https://www.sciencedirect.com/science/article/pii/S0957417424015173},
-  author = {Kanwal Ahmed and Muhammad Asghar Khan and Ijazul Haq and Alanoud Al Mazroa and Syam M.S. and Nisreen Innab and Masoud Alajmi and Hend Khalid Alkahtani},
-  keywords = {User profiling, Social media, Fake news, Deep learning, Natural language processing},
-}
-```
-
+  @article{AHMED2024124650,
+    title={Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation},
+    author={Kanwal Ahmed and Muhammad Asghar Khan and Ijazul Haq and Alanoud Al Mazroa and Syam M.S. and Nisreen Innab and Masoud Alajmi and Hend Khalid Alkahtani},
+    journal={Expert Systems with Applications},
+    volume={255},
+    pages={124650},
+    year={2024},
+    issn={0957-4174},
+    doi={https://doi.org/10.1016/j.eswa.2024.124650}
+  }
+  ```
+  
 ## Contact
 - Website: [https://ijaz.me/](https://ijaz.me/)
 - LinkedIn: [https://www.linkedin.com/in/drijazulhaq/](https://www.linkedin.com/in/drijazulhaq/)
