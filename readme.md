@@ -209,7 +209,7 @@ _K. Ahmed, M. A. Khan, I. Haq, A. Al Mazroa, M. Syam, N. Innab, et al., "Social 
 - **BibTeX**
 
   ```bibtex
-  @article{AHMED2024124650,
+@article{AHMED2024124650,
   title = {Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation},
   journal = {Expert Systems with Applications},
   volume = {255},
@@ -217,6 +217,12 @@ _K. Ahmed, M. A. Khan, I. Haq, A. Al Mazroa, M. Syam, N. Innab, et al., "Social 
   year = {2024},
   issn = {0957-4174},
   doi = {https://doi.org/10.1016/j.eswa.2024.124650},
-  author = {Kanwal Ahmed and Muhammad Asghar Khan and Ijazul Haq and Alanoud Al Mazroa and Syam M.S. and Nisreen Innab and Masoud Alajmi and Hend Khalid Alkahtani}
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417424015173},
+  author = {Kanwal Ahmed and Muhammad Asghar Khan and Ijazul Haq and Alanoud Al Mazroa and Syam M.S. and Nisreen Innab and Masoud Alajmi and Hend Khalid Alkahtani},
+  keywords = {User profiling, Social media, Fake news, Deep learning, Natural language processing},
 }
 ```
+
+## Contact
+- Website: [https://ijaz.me/](https://ijaz.me/)
+- LinkedIn: [https://www.linkedin.com/in/drijazulhaq/](https://www.linkedin.com/in/drijazulhaq/)
