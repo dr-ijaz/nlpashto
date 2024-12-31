@@ -130,3 +130,87 @@ print(sentiment)
 - Jupyter Notebooks: [Kaggle](https://www.kaggle.com/drijaz/)
 
 ## Citations
+
+**NLPashto: NLP Toolkit for Low-resource Pashto Language**
+
+- **IEEE**
+
+  _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "NLPashto: NLP Toolkit for Low-resource Pashto Language," International Journal of Advanced Computer Science and Applications, vol. 14, no. 6, pp. 1345-1352, 2023._
+
+- **BibTeX**
+
+  ```bibtex
+  @article{haq2023nlpashto,
+    title={NLPashto: NLP Toolkit for Low-resource Pashto Language},
+    author={Ijazul Haq and Weidong Qiu and Jie Guo and Peng Tang},
+    journal={International Journal of Advanced Computer Science and Applications},
+    volume={14},
+    number={6},
+    pages={1345-1352},
+    year={2023},
+    doi={https://dx.doi.org/10.14569/IJACSA.2023.01406142}
+  }
+  ```
+
+**Correction of Whitespace and Word Segmentation in Noisy Pashto Text Using CRF**
+
+- **IEEE**
+
+  _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Correction of whitespace and word segmentation in noisy Pashto text using CRF," Speech Communication, vol. 153, p. 102970, 2023._
+
+- **BibTeX**
+
+  ```bibtex
+  @article{HAQ2023102970,
+    title={Correction of whitespace and word segmentation in noisy Pashto text using CRF},
+    journal={Speech Communication},
+    volume={153},
+    pages={102970},
+    year={2023},
+    doi={https://doi.org/10.1016/j.specom.2023.102970},
+    author={Ijazul Haq and Weidong Qiu and Jie Guo and Peng Tang}
+  }
+  ```
+
+**POS Tagging of Low-resource Pashto Language: Annotated Corpus and BERT-based Model**
+
+- **IEEE**
+
+  _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "POS Tagging of Low-resource Pashto Language: Annotated Corpus and BERT-based Model," Preprint, 2023._
+
+- **BibTeX**
+
+  ```bibtex
+  @article{haq2023pashto,
+    title={POS Tagging of Low-resource Pashto Language: Annotated Corpus and Bert-based Model},
+    author={Ijazul Haq and Weidong Qiu and Jie Guo and Peng Tang},
+    journal={Preprint},
+    year={2023},
+    doi={https://doi.org/10.21203/rs.3.rs-2712906/v1}
+  }
+  ```
+
+**Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT**
+
+- **IEEE**
+
+  _H. Ijazul, Q. Weidong, G. Jie, and T. Peng, "Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT," PeerJ Computer Science, vol. 9, p. e1617, 2023._
+
+- **BibTeX**
+
+  ```bibtex
+  @article{haq2023pold,
+    title={Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT},
+    author={Ijazul Haq and Weidong Qiu and Jie Guo and Peng Tang},
+    journal={PeerJ Computer Science},
+    volume={9},
+    pages={e1617},
+    year={2023},
+    doi={10.7717/peerj-cs.1617}
+  }
+  ```
+
+## Contact
+
+- Website: [https://ijaz.me/](https://ijaz.me/)
+- LinkedIn: [https://www.linkedin.com/in/drijazulhaq/](https://www.linkedin.com/in/drijazulhaq/)
