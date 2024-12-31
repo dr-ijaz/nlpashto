@@ -131,7 +131,7 @@ print(sentiment)
 
 ## Citations
 
-**NLPashto: NLP Toolkit for Low-resource Pashto Language**
+**[NLPashto: NLP Toolkit for Low-resource Pashto Language](https://dx.doi.org/10.14569/IJACSA.2023.01406142)**
 
 - **IEEE**
 
@@ -152,7 +152,7 @@ print(sentiment)
   }
   ```
 
-**Correction of Whitespace and Word Segmentation in Noisy Pashto Text Using CRF**
+**[Correction of whitespace and word segmentation in noisy Pashto text using CRF](https://doi.org/10.1016/j.specom.2023.102970)**
 
 - **IEEE**
 
@@ -172,7 +172,7 @@ print(sentiment)
   }
   ```
 
-**POS Tagging of Low-resource Pashto Language: Annotated Corpus and BERT-based Model**
+**[POS Tagging of Low-resource Pashto Language: Annotated Corpus and Bert-based Model](https://doi.org/10.21203/rs.3.rs-2712906/v1)**
 
 - **IEEE**
 
@@ -190,7 +190,7 @@ print(sentiment)
   }
   ```
 
-**Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT**
+**[Pashto offensive language detection: a benchmark dataset and monolingual Pashto BERT](https://doi.org/10.7717/peerj-cs.1617)**
 
 - **IEEE**
 
@@ -208,6 +208,27 @@ print(sentiment)
     year={2023},
     doi={10.7717/peerj-cs.1617}
   }
+  ```
+
+**[Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation](https://doi.org/10.1016/j.eswa.2024.124650)**
+
+- **IEEE**
+
+  _K. Ahmed, M. A. Khan, I. Haq, A. Al Mazroa, M. Syam, N. Innab, et al., "Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation," Expert Systems with Applications, vol. 255, p. 124650, 2024._
+
+- **BibTeX**
+
+  ```bibtex
+  @article{AHMED2024124650,
+  title = {Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation},
+  journal = {Expert Systems with Applications},
+  volume = {255},
+  pages = {124650},
+  year = {2024},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2024.124650},
+  author = {Kanwal Ahmed and Muhammad Asghar Khan and Ijazul Haq and Alanoud Al Mazroa and Syam M.S. and Nisreen Innab and Masoud Alajmi and Hend Khalid Alkahtani}
+}
   ```
 
 ## Contact
