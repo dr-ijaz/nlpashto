@@ -2,7 +2,7 @@
 
 # NLPashto – NLP Toolkit for Pashto
 
-[![GitHub](https://github.com/dr-ijaz/nlpashto)](LICENSE)
+![GitHub](https://img.shields.io/github/license/dr-ijaz/nlpashto)
 ![GitHub contributors](https://img.shields.io/github/contributors/dr-ijaz/nlpashto) 
 ![Code size](https://img.shields.io/github/languages/code-size/dr-ijaz/nlpashto)
 
