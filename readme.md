@@ -152,7 +152,7 @@ print(sentiment)
   }
   ```
 
-**[Correction of whitespace and word segmentation in noisy Pashto text using CRF](https://doi.org/10.1016/j.specom.2023.102970)**
+**[Correction of Whitespace and Word Segmentation in Noisy Pashto Text using CRF](https://doi.org/10.1016/j.specom.2023.102970)**
 
 - **IEEE**
 
@@ -190,7 +190,7 @@ print(sentiment)
   }
   ```
 
-**[Pashto offensive language detection: a benchmark dataset and monolingual Pashto BERT](https://doi.org/10.7717/peerj-cs.1617)**
+**[Pashto Offensive Language Detection: A Benchmark Dataset and Monolingual Pashto BERT](https://doi.org/10.7717/peerj-cs.1617)**
 
 - **IEEE**
 
@@ -210,7 +210,7 @@ print(sentiment)
   }
   ```
 
-**[Social media’s dark secrets: A propagation, lexical and psycholinguistic oriented deep learning approach for fake news proliferation](https://doi.org/10.1016/j.eswa.2024.124650)**
+**[Social Media’s Dark Secrets: A Propagation, Lexical and Psycholinguistic Ooriented Deep Learning Approach for Fake News Proliferation](https://doi.org/10.1016/j.eswa.2024.124650)**
 
 - **IEEE**
 
