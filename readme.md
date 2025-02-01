@@ -1,4 +1,4 @@
-![Pashto Word Cloud](wc.gif)
+![Pashto Word Cloud](https://github.com/dr-ijaz/nlpashto/blob/main/wc.gif)
 
 # NLPashto – NLP Toolkit for Pashto
 
